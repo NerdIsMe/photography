@@ -1,0 +1,11 @@
+
+200 # colourful
+180 # white
+170 # very blue
+150 # blue
+140 # median
+130 # yellow
+120 # orange
+110 # night view
+105 # quite dark
+100 # dark
