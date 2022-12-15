@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>精選.collection on 日迌 Tshit Thô</title>
+    <title>精選.collection on 日迌 Chhit Thô</title>
     <link>https://nerdisme.github.io/photography/tags/%E7%B2%BE%E9%81%B8.collection/</link>
-    <description>Recent content in 精選.collection on 日迌 Tshit Thô</description>
+    <description>Recent content in 精選.collection on 日迌 Chhit Thô</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://nerdisme.github.io/photography/tags/%E7%B2%BE%E9%81%B8.collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ponte De Dom Luis I, Porto, Portugal</title>
+      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/portugal/porto-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/portugal/porto-2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Acropolis, Athens</title>
       <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/acropolis-athens/</link>
@@ -29,6 +38,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/hydra-athens/hydra-athens-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livraria Lello, Porto, Portugal</title>
+      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/portugal/porto-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/portugal/porto-1/</guid>
       <description></description>
     </item>
     
@@ -70,10 +88,10 @@
     
     <item>
       <title>Dinant, Belgium 1</title>
-      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/dinant-belgium-1/</link>
+      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/dinant-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/dinant-belgium-1/</guid>
+      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/dinant-1/</guid>
       <description></description>
     </item>
     
@@ -123,20 +141,29 @@
     </item>
     
     <item>
-      <title>Palais Garnier, Paris 3</title>
-      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/paris/palais-garnier-paris-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/paris/palais-garnier-paris-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Paris 1</title>
       <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/paris/paris-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/paris/paris-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brugge, Belgium 1</title>
+      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/brugge-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/brugge-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brugge, Belgium 3</title>
+      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/brugge-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/brugge-3/</guid>
       <description></description>
     </item>
     
@@ -195,11 +222,11 @@
     </item>
     
     <item>
-      <title>Rovinj, Croatia 4</title>
-      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/rovinj-croatia/rovinj-croatia-4/</link>
+      <title>Brugge, Belgium 4</title>
+      <link>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/brugge-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/rovinj-croatia/rovinj-croatia-4/</guid>
+      <guid>https://nerdisme.github.io/photography/%E7%B2%BE%E9%81%B8.collection/belgium/brugge-4/</guid>
       <description></description>
     </item>
     
