@@ -7,6 +7,7 @@
 130 # yellow
 120 # orange
 115 # white
+117 # gray
 110 # night view
 105 # quite dark
 100 # dark
