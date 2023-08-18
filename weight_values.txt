@@ -11,3 +11,6 @@
 110 # night view
 105 # quite dark
 100 # dark
+
+2 # 飛機頭朝右
+1 # 飛機頭朝左
